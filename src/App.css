@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.box {
+  background-color: rgb(187, 212, 255);
+  border: 1px solid #666;
+  margin: 1rem 2rem;
+}
