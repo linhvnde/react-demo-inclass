@@ -46,7 +46,9 @@ function App() {
       <User userName="Alice" age={30} />
       <User userName="Bob" age={40} favFood="pizza"/>
       <hr />
-      <Footer />
+      <Footer>
+        <p>Copyright somethinghere</p>
+      </Footer>
     </div>
   );
 }
